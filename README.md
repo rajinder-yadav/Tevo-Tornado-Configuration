@@ -2,10 +2,7 @@
 
 Printer spec:https://www.tevo.cn/products/3d-printers/tevo-tornado/
 
-Latest firmware update produce 2 bugs:
-
-1. TMC2209 v2 driver report error
-1. Display will unreadable
+Latest firmware update causes the TMC2209 v2 driver error
 
 ## TMC2209 Error
 
@@ -16,9 +13,3 @@ Recv: Testing Y connection... Error: All LOW
 Recv: Testing Z connection... Error: All LOW
 Recv: Testing E connection... Error: All LOW
 ```
-
-## Display bug
-
-The following configuration produces a messy screen using Marlin 2.0 firmware
-
-![image](./screen.jpg)
