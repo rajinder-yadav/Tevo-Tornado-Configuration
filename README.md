@@ -8,9 +8,9 @@ Latest firmware update causes the TMC2209 v2 driver error
 - TMC2209 Driver v2 by __Makerbase__
 - Base power supply 24v
 
-Screen display, "TMC CONNECTION ERROR"
-
 ## TMC2209 Error
+
+Screen display, "TMC CONNECTION ERROR"
 
 ```sh
 Send: M122
