@@ -5,7 +5,7 @@ Printer spec:https://www.tevo.cn/products/3d-printers/tevo-tornado/
 Latest firmware update causes the TMC2209 v2 driver error
 
 - Motherboard: MKS Gen L V1.0
-- TMC2209 Drive v2 by __Makerbase__
+- TMC2209 Driver v2 by __Makerbase__
 - Base power supply 24v
 
 Screen display, "TMC CONNECTION ERROR"
