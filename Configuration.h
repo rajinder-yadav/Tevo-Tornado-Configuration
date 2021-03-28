@@ -2422,3 +2422,10 @@
 
 // Edit servo angles with M281 and save to EEPROM with M500
 //#define EDITABLE_SERVO_ANGLES
+
+
+// Screen Bug Fix Tevo Tornado
+// https://github.com/MarlinFirmware/Marlin/issues/21459
+#define BOARD_ST7920_DELAY_1 DELAY_NS(250)
+#define BOARD_ST7920_DELAY_2 DELAY_NS(250)
+#define BOARD_ST7920_DELAY_3 DELAY_NS(250)
